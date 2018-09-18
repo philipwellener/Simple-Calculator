@@ -1,3 +1,9 @@
+/**
+ * 
+ * @author Philip Wellener
+ * Period 7
+ *
+ */
 
 public class Calculator 
 {

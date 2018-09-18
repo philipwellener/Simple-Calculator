@@ -1,10 +1,11 @@
 /**
  * 
  * @author Philip Wellener
+ *Period 7
  *
  */
 
-public class CalculatoraMain 
+public class CalculatorMain 
 {
 	public static void main(String[] args)
 	{
